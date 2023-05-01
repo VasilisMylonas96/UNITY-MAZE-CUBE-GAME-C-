@@ -1,5 +1,6 @@
 # UNITY-MAZE-CUBE-GAME-C-
-C# UNITY 
+C# UNITY
+
 "Maze" is a Unity project that I developed. It includes custom animations and sound
 effects, as well as a database to store player progress. Ray tracing was used to enhance
 the visual quality and to detect collisions when the player interacts with objects in the
